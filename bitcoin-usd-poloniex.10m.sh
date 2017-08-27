@@ -5,7 +5,7 @@
 # <bitbar.author>Istom1n</bitbar.author>
 # <bitbar.author.github>Ivan-Istomin</bitbar.author.github>
 # <bitbar.desc>Shows the last Bitcoin price (in USD) on the Poloniex exchange for Bitbar</bitbar.desc>
-# <bitbar.image>https://raw.githubusercontent.com/monerohow/misc/master/mac-menu-bar-light-and-dark.jpg</bitbar.image>
+# <bitbar.image>https://raw.githubusercontent.com/Ivan-Istomin/BTC-to-USDT-for-Bitbar/master/example.png</bitbar.image>
 # <bitbar.abouturl>https://github.com/Ivan-Istomin</bitbar.abouturl>
 #
 
